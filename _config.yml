@@ -8,8 +8,8 @@
 # Site settings
 title:  笑疯颠
 subtitle: 学习分享，共同进步
-name: 别人笑我太疯癫，我笑别人看不穿 
-email: 
+name: 笑疯颠
+email: 别人笑我太疯癫，我笑别人看不穿 
 description: 
 keywords: 
 encoding: "utf-8"
@@ -57,7 +57,7 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: 
+    href: /test.html
     label: 张乐
     target: _self
 
